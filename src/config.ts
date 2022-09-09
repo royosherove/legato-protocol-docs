@@ -33,7 +33,7 @@ export const KNOWN_LANGUAGE_CODES = Object.values(KNOWN_LANGUAGES);
 //https://github.com/royosherove/legato-protocol-docs/blob/master/src/pages//src/pages/en/introduction.md
 export const GITHUB_EDIT_URL = `https://github.com/royosherove/legato-protocol-docs/blob/master`;
 
-export const COMMUNITY_INVITE_URL = `https://astro.build/chat`;
+// export const COMMUNITY_INVITE_URL = `https://astro.build/chat`;
 
 // See "Algolia" section of the README for more information.
 export const ALGOLIA = {
